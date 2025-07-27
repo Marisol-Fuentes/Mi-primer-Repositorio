@@ -122,7 +122,11 @@ footer {
 }
 
 
-/* PAGINA LOGO UES (aplicado a todas las páginas de mi citio web)*/
+/* --------------------------------------------------------------------*/
+/*                 Estilo aplicado al formulario                       */
+/*  PAGINA LOGO UES (aplicado a todas las páginas de mi citio web)    */
+/*--------------------------------------------------------------------*/
+
 #logo h1 h2 h3 h4  {
     display: inline-block;
     font-family: 'Times New Roman', Times, serif;
@@ -160,7 +164,9 @@ footer {
 
 
 /* Estilo aplicado al formulario */
-/* FORMULARIO DE REGISTRO */
+/* ------------------------------*/
+/*     FORMULARIO DE REGISTRO    */
+/*------------------------------*/
 #form {
     font-family: Arial, sans-serif;
     background-color: #f3f4f6;
